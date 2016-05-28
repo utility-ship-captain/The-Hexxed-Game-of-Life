@@ -1,0 +1,8 @@
+Hexxed LIFE takes place on a hex grid.
+Each "cell" in the grid exists in a "populated" or "unpopulated" state.
+The program will "iterate," changing the state of the grid.
+In each iteration, each cell will simultaneously check the state of itself and its six neighbors.
+
+If the cell is unpopulated and exactly two neighbors are populated, it will become populated.
+If the cell is populated and has two or three populated neighbors, it will remain populated.
+In all other instances, the cell will be unpopulated at the end of the iteration.
