@@ -1,0 +1,14 @@
+This file is intended to serve as a guideline for the intended layout of the HGOL repository.
+
+LICENSE.txt
+README.md
+setup.py
+requirements.txt
+hgol.py
+docs
+    LAYOUT1.txt
+    RULES.txt
+    RULES6.txt
+tests
+    test_basic.py
+    test_advanced.py
